@@ -1,2 +1,2 @@
 # 17ryydesigns.github.io
-AllerGo's official website
+This is Ray Yeung's portfolio coded by Ray Yeung!
